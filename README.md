@@ -44,6 +44,9 @@ The repository is maintained in an anonymous format for review purposes.
 - **`EnsembleResponsesMentalChat.txt`**  
   Generated ensemble responses on the **MentalChat-16K** dataset.
 
+- **`EnsembleResponsesCareerGuidance.txt`**  
+  Generated ensemble responses on the **Career Guidance** dataset.
+
 ---
 
 ### Single-Model Outputs (LLaMA 71B)
