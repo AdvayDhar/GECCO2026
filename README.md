@@ -1,4 +1,4 @@
-# Anonymous Research Code Repository
+# Research Code Repository
 
 This repository contains the training, evaluation, ablation, ensemble generation, and Pareto front analysis code used in our paper.  
 All experiments are conducted on two primary datasets:
@@ -6,7 +6,6 @@ All experiments are conducted on two primary datasets:
 - **MentalChat-16K:  ShenLab/MentalChat16K**
 - **Auxiliary Career Guidance Dataset:  advy/career-guidance-counsellor-QA**
 
-The repository is maintained in an anonymous format for review purposes.
 
 ---
 
@@ -87,11 +86,6 @@ The repository is maintained in an anonymous format for review purposes.
   A short demonstration video showcasing a lightweight frontend of the ensemble inference workflow.
 
 ---
-
-## Notes
-
-- This repository is intended **solely for reproducibility and evaluation** of the experiments described in the paper.
-- The codebase is intentionally anonymized for double-blind review.
 
 
 If this repository is used, please cite the corresponding paper (citation details will be provided upon publication).
